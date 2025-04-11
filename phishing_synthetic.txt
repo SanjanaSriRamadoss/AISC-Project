@@ -1,0 +1,1152 @@
+Email Text,Email Type
+"Hi Dana, just a quick reminder that the budget review meeting is set for Monday at 9 AM.",Safe Email
+"We've detected suspicious activity in your account. Verify your identity immediately.",Phishing Email
+"Hello Chris, the Q2 sales summary is attached. Let me know if you have any questions.",Safe Email
+"Your PayPal account has been restricted. Click here to lift the limitations.",Phishing Email
+"Thanks for your order! Your package will ship within the next 48 hours.",Safe Email
+"Claim your exclusive $1000 gift card now before it expires!",Phishing Email
+"Hi Jasmine, it was great catching up during the networking event. Let's stay in touch.",Safe Email
+"URGENT: Your email account will be deactivated in 24 hours. Click here to keep it active.",Phishing Email
+"Here’s the final agenda for tomorrow’s product launch meeting.",Safe Email
+"Your Netflix subscription has been suspended. Please update your billing details to continue access.",Phishing Email
+"Hi Tom, please send me the updated headcount for Friday’s event.",Safe Email
+"Amazon Security Alert: Someone tried to access your account from a new device. Click here to verify.",Phishing Email
+"Welcome to the team, Sarah! We're excited to have you on board.",Safe Email
+"Suspicious login attempt detected. If this wasn't you, secure your account now.",Phishing Email
+"Attached is the finalized client presentation for tomorrow.",Safe Email
+"Dear user, your Dropbox account is over storage limit. Upgrade to avoid losing files.",Phishing Email
+"Let me know if you’re available to join the quarterly earnings review on Thursday.",Safe Email
+"You've been selected to win a brand-new iPhone 14! Claim yours now.",Phishing Email
+"Hey Emily, here’s a draft of the press release for your review.",Safe Email
+"Microsoft Alert: Your credentials were used in an unauthorized login attempt.",Phishing Email
+"Hi Alex, it was great chatting at the conference. Looking forward to collaborating soon.",Safe Email
+"Final notice: Your tax refund is pending. Provide your details to receive it.",Phishing Email
+"Reminder: Please submit your timecard by 5 PM today.",Safe Email
+"Attention: Your Social Security Number has been suspended due to suspicious activity.",Phishing Email
+"Hi team, let’s meet at 11 AM to go over the sprint backlog.",Safe Email
+"You’ve exceeded your mailbox storage. Click here to increase your quota.",Phishing Email
+"Welcome aboard! Your onboarding materials are attached.",Safe Email
+"Unusual access pattern detected in your banking activity. Confirm identity now.",Phishing Email
+"Hi Laura, here’s the revised version of the event schedule.",Safe Email
+"Immediate Action Required: Your PayPal account has been flagged for review.",Phishing Email
+"Just checking in on the status of the product demo video.",Safe Email
+"Your health insurance has expired. Click here to renew coverage instantly.",Phishing Email
+"Hi Nathan, can you confirm the catering order for tomorrow?",Safe Email
+"You have 1 unread message from your bank. Click to read.",Phishing Email
+"Monthly newsletter: Team highlights and upcoming events.",Safe Email
+"Your Apple account has been locked. Reset your password immediately.",Phishing Email
+"Attached is the invoice for last month's marketing campaign.",Safe Email
+"You’ve won a MacBook Pro! Confirm your shipping details here.",Phishing Email
+"Can we push the project meeting to 3 PM instead of 2?",Safe Email
+"Security Alert: We’ve detected login attempts from a foreign IP.",Phishing Email
+"Thanks for attending the design workshop! Slides are attached.",Safe Email
+"Update your payment method to avoid service interruption.",Phishing Email
+"Hi Jordan, just wanted to share the campaign stats from last week.",Safe Email
+"Critical alert: Your bank account is at risk. Confirm your credentials.",Phishing Email
+"Here’s the draft for the internal newsletter—feedback welcome!",Safe Email
+"Congratulations! You've been pre-approved for a $5,000 credit line.",Phishing Email
+"Quick heads-up: the meeting room has been changed to Room 5B.",Safe Email
+"Recover your account now to avoid permanent lockout.",Phishing Email
+"Hey team, amazing job on the release today!",Safe Email
+"Your password expires in 24 hours. Click here to update it.",Phishing Email
+"Let’s sync briefly at 2 PM to prep for the client call.",Safe Email
+"Important: You’ve been selected for a security verification process.",Phishing Email
+"Here’s the agenda for tomorrow’s check-in meeting.",Safe Email
+"Unlock your account by completing this short verification.",Phishing Email
+"Hi Paul, I’ve attached the updated quarterly projections.",Safe Email
+"One-time login attempt detected. Validate activity here.",Phishing Email
+"Thanks for the quick turnaround on the contracts!",Safe Email
+"Unauthorized charge detected. Review and dispute now.",Phishing Email
+"Just confirming our dinner reservation for Friday.",Safe Email
+"Download your banking statement now to avoid late fees.",Phishing Email
+"Please review the attached bug list before deployment.",Safe Email
+"Security notice: Your credentials have been exposed. Reset now.",Phishing Email
+"Awesome work on the proposal—client was very impressed.",Safe Email
+"Claim your loyalty reward points now before they expire.",Phishing Email
+"Friendly reminder: performance reviews are due by Friday.",Safe Email
+"Verify your identity to avoid deactivation of your account.",Phishing Email
+"Thanks for helping organize the charity event!",Safe Email
+"Last warning: click to prevent permanent email suspension.",Phishing Email
+"Join us for this month’s product town hall at 1 PM.",Safe Email
+"Failure to act will result in access loss. Restore now.",Phishing Email
+"Here’s the finalized slide deck for the marketing pitch.",Safe Email
+"Hi Olivia, let’s catch up over coffee next week.",Safe Email
+"Unusual sign-in behavior detected. Reset password now.",Phishing Email
+"Welcome back! We’ve missed you at our events.",Safe Email
+"Your package is on hold due to address mismatch. Confirm here.",Phishing Email
+"Let’s regroup next Tuesday to plan Q3 roadmap.",Safe Email
+"Action required: New device login detected.",Phishing Email
+"Great job on the hiring event last week!",Safe Email
+"You’ve been selected for a surprise gift! Click to claim.",Phishing Email
+"Hey Rachel, sharing the latest website analytics report.",Safe Email
+"Your cloud storage is full. Upgrade to continue syncing.",Phishing Email
+"Please RSVP to next week’s strategy workshop.",Safe Email
+"System alert: You must verify your login location.",Phishing Email
+"Hi Terry, confirming your speaking slot at the summit.",Safe Email
+"Reset your password to continue using our secure portal.",Phishing Email
+"Hey Alex, looping in the client for feedback.",Safe Email
+"Final reminder: Validate your billing information today.",Phishing Email
+"Good luck on your presentation today—you're going to crush it!",Safe Email
+"Failure to confirm your account will lead to permanent lock.",Phishing Email
+"Quick update: Client has approved the storyboard edits.",Safe Email
+"Payment failed. Please resubmit to continue your service.",Phishing Email
+"Thanks again for joining the mentorship kickoff!",Safe Email
+"You are eligible for government grant assistance. Apply now!",Phishing Email
+"Hi Sam, let’s catch up after your client visit.",Safe Email
+"Critical system alert: Admin access required.",Phishing Email
+"Please see attached minutes from today’s meeting.",Safe Email
+"Verify your activity to unlock your account immediately.",Phishing Email
+"Hi Julia, here’s the schedule for this Friday’s demo.",Safe Email
+"You've received an encrypted message. Decrypt here.",Phishing Email
+"Quick note: New hire orientation is now at 10:30 AM.",Safe Email
+"Alert: New login from Russia detected. Is this you?",Phishing Email
+"Let me know when you’re free to discuss the product roadmap.",Safe Email
+"You have 1 unread fax from your insurance provider.",Phishing Email
+"Thanks for submitting your goals for this quarter!",Safe Email
+"Immediate action required: Suspicious account access detected.",Phishing Email
+"Hi Josh, looping in legal for review on the updated NDA draft.",Safe Email
+"Fraudulent activity detected. Please log in to secure your bank account.",Phishing Email
+"Hey team, we’ll be doing a system maintenance test at 6 PM today.",Safe Email
+"Verify your account now to avoid service restrictions.",Phishing Email
+"Here are the action items from this morning's stand-up.",Safe Email
+"Suspicious activity detected on your credit card ending in 3921.",Phishing Email
+"Let’s finalize the Q1 hiring plan during next Tuesday’s call.",Safe Email
+"Alert: Your Microsoft account is compromised. Take immediate action.",Phishing Email
+"Don’t forget to RSVP for next week’s leadership forum.",Safe Email
+"Unauthorized payment attempt blocked. Review now.",Phishing Email
+"Nice work on getting the new features deployed before the deadline!",Safe Email
+"Update your billing information to prevent service interruption.",Phishing Email
+"Please review and sign off on the attached contract addendum.",Safe Email
+"Your mailbox has exceeded the allowed quota. Login to resolve.",Phishing Email
+"Friendly reminder: the design critique session is tomorrow at 11 AM.",Safe Email
+"You have 2 undelivered messages waiting for verification.",Phishing Email
+"Thanks for attending the all-hands. Attached are the slides.",Safe Email
+"Important security alert: Someone tried to reset your password.",Phishing Email
+"Let’s meet in Conference Room A instead of Zoom tomorrow.",Safe Email
+"You’ve been selected for a rewards survey. Complete it to earn a $100 card.",Phishing Email
+"Hi Angela, just confirming the lunch order for the board meeting.",Safe Email
+"Immediate verification required: unusual login attempt identified.",Phishing Email
+"Please review and approve your PTO request by EOD.",Safe Email
+"Click here to confirm your recent account activity.",Phishing Email
+"Hi Claire, looping you in on the logistics email thread.",Safe Email
+"Your parcel cannot be delivered. Enter your details to reschedule.",Phishing Email
+"Here’s the final list of invitees for the client mixer.",Safe Email
+"Failure to respond will result in data loss. Act now.",Phishing Email
+"Awesome job on the marketing deck—client is very happy!",Safe Email
+"Confirm your billing address to avoid package returns.",Phishing Email
+"Hi Max, I’ve shared access to the shared drive folder.",Safe Email
+"Your data usage has exceeded limits. Upgrade your plan today.",Phishing Email
+"Let’s regroup on Monday to plan the product rollout.",Safe Email
+"Reset your banking credentials to regain access.",Phishing Email
+"Please find attached the updated press kit for distribution.",Safe Email
+"We could not verify your device. Log in to confirm identity.",Phishing Email
+"Reminder: New employee orientation is this Friday at 9 AM.",Safe Email
+"Complete your profile to avoid account suspension.",Phishing Email
+"Hi Megan, thanks for reviewing the draft investor update.",Safe Email
+"Security Update: Suspicious device detected in your account.",Phishing Email
+"Thanks for submitting your expense report!",Safe Email
+"Immediate login required: Your account will be frozen soon.",Phishing Email
+"Here's the contact list for next week's offsite.",Safe Email
+"You’ve won a reward from our loyalty program. Click to claim.",Phishing Email
+"Please RSVP for the Friday workshop before noon tomorrow.",Safe Email
+"Your recent transaction has failed. Update payment info now.",Phishing Email
+"Attached are the new team OKRs for Q3.",Safe Email
+"Dear user, confirm your account to prevent termination.",Phishing Email
+"Here’s the link to tomorrow’s product walkthrough call.",Safe Email
+"Warning: Someone is trying to access your cloud drive.",Phishing Email
+"Hey Sean, are you free for a quick sync after lunch?",Safe Email
+"One-time password request received. Click here to verify.",Phishing Email
+"Attached is the approved creative brief for next quarter.",Safe Email
+"Claim your reward before it expires. Limited time offer!",Phishing Email
+"Let’s finalize headcount for the retreat during today’s call.",Safe Email
+"Unverified logins detected. Please confirm recent activity.",Phishing Email
+"Team, amazing job launching the new microsite!",Safe Email
+"Last chance to secure your exclusive reward. Click now.",Phishing Email
+"Thanks for reviewing the draft agenda.",Safe Email
+"We need more information to process your account upgrade.",Phishing Email
+"Here’s the sign-in sheet for today's training session.",Safe Email
+"You have pending documents in your e-signature queue.",Phishing Email
+"Reminder: Please complete your annual training modules.",Safe Email
+"Suspicious charge from foreign IP. Confirm now.",Phishing Email
+"Hi Priya, the creative team finished the new concept art—see attached.",Safe Email
+"Unauthorized download attempt reported. Confirm identity.",Phishing Email
+"Meeting notes from today’s cross-functional sync are attached.",Safe Email
+"Click here to protect your email account from suspicious activity.",Phishing Email
+"Looking forward to your presentation at the town hall!",Safe Email
+"Update your credentials to keep using your account.",Phishing Email
+"See attached checklist for conference booth setup.",Safe Email
+"Dear user, we've temporarily suspended your profile. Reactivate now.",Phishing Email
+"Hi Maria, thanks for managing the client feedback loop so smoothly.",Safe Email
+"Last step: Click to unlock your full account access.",Phishing Email
+"New feature release notes are in the shared folder.",Safe Email
+"System alert: Critical update required for continued access.",Phishing Email
+"Thanks for confirming attendance at the leadership dinner.",Safe Email
+"Please enter your details to verify account ownership.",Phishing Email
+"Can we reschedule the feedback session to next Tuesday?",Safe Email
+"Your credentials have been compromised. Take action now.",Phishing Email
+"Attached are the results of the most recent internal survey.",Safe Email
+"You have 24 hours to respond or your account will be deactivated.",Phishing Email
+"Hey team, can someone double-check the email campaign stats?",Safe Email
+"We couldn’t process your last transaction. Click here to retry.",Phishing Email
+"Just a heads up—cafeteria will be closed tomorrow for maintenance.",Safe Email
+"Unusual login alert. Reset your account now.",Phishing Email
+"Hi Jordan, here’s a recap of today’s creative review session.",Safe Email
+"You’ve reached your account’s storage capacity. Upgrade to continue.",Phishing Email
+"Please check and approve the attached social post calendar.",Safe Email
+"Warning: Someone attempted to change your account password.",Phishing Email
+"Good morning! Attached is your weekly briefing.",Safe Email
+"Unauthorized login detected on your financial account.",Phishing Email
+"Reminder: Benefits enrollment closes this Friday.",Safe Email
+"Action needed: Your account security settings are outdated.",Phishing Email
+"Thanks for helping out with the Q&A panel today!",Safe Email
+"Verify recent changes to your user profile.",Phishing Email
+"Hi Avery, I’ve uploaded the latest product mockups.",Safe Email
+"Confirm your credentials to keep your inbox active.",Phishing Email
+"Don’t forget to review and accept the Q4 objectives.",Safe Email
+"Alert: System scan flagged your profile for suspicious activity.",Phishing Email
+"Hey Jamal, forwarding you the new vendor quote.",Safe Email
+"Last warning: click here to avoid data breach.",Phishing Email
+"Quick update: team standup has moved to 9:30 AM.",Safe Email
+"Click to confirm your recent password change request.",Phishing Email
+"Hi Monica, just following up on the invoice from last week.",Safe Email
+"Your credit card has been declined. Update payment info now.",Phishing Email
+"Thanks for updating the campaign metrics so quickly!",Safe Email
+"Your subscription has expired. Click here to reactivate.",Phishing Email
+"Here are the edits I made to the draft proposal—let me know your thoughts.",Safe Email
+"Multiple failed login attempts detected. Reset your password now.",Phishing Email
+"Reminder: Please approve the vendor agreement by EOD.",Safe Email
+"Immediate account verification required due to policy changes.",Phishing Email
+"Attached is the updated floor plan for the conference layout.",Safe Email
+"Confirm account activity or your profile will be deactivated.",Phishing Email
+"Hey Alex, can you double-check the dates in the schedule?",Safe Email
+"Alert: Unrecognized device signed in from a new location.",Phishing Email
+"Please find the Q2 results attached. Feedback is welcome.",Safe Email
+"Click now to restore your email access.",Phishing Email
+"Thanks for your help reviewing the contract changes.",Safe Email
+"You have a pending refund. Submit your information to receive it.",Phishing Email
+"Hi Katie, I've added your comments to the project plan.",Safe Email
+"Unusual account access detected. Secure your credentials.",Phishing Email
+"Looking forward to seeing everyone at the team outing this Friday!",Safe Email
+"Security notice: Confirm your ID to prevent suspension.",Phishing Email
+"Attached is the timeline for the upcoming redesign project.",Safe Email
+"Your email has been flagged for suspicious behavior. Review now.",Phishing Email
+"Hi Ben, great presentation today—very engaging!",Safe Email
+"You must verify your account to avoid automatic closure.",Phishing Email
+"Please add these deliverables to the project tracker.",Safe Email
+"Login now to prevent your email from being permanently disabled.",Phishing Email
+"Just looping in finance for final invoice approval.",Safe Email
+"Act now to keep your subscription active.",Phishing Email
+"Hi team, sharing the key takeaways from this morning's training.",Safe Email
+"System alert: Your email was accessed by a third party.",Phishing Email
+"Let’s review the campaign brief before sending to the client.",Safe Email
+"Reset your account settings to secure your profile.",Phishing Email
+"Friendly reminder: Quarterly reports are due tomorrow.",Safe Email
+"Your login credentials were exposed in a data leak. Change them now.",Phishing Email
+"Thanks again for organizing the onboarding session!",Safe Email
+"Your account is being reviewed due to suspicious login patterns.",Phishing Email
+"Please proof the event invite before we publish it.",Safe Email
+"You’ve won a $500 cash prize. Claim now.",Phishing Email
+"Team, please welcome our new intern, Maya!",Safe Email
+"Your Dropbox files are being deleted. Recover access now.",Phishing Email
+"Hi Sam, confirming your panel spot at next month’s conference.",Safe Email
+"Suspicious behavior was detected on your account. Log in to secure it.",Phishing Email
+"Here's the draft of the annual report—comments welcome.",Safe Email
+"You must update your information to retain access.",Phishing Email
+"Nice work on the design sprint this week—great progress!",Safe Email
+"You have unread encrypted messages. Click here to view.",Phishing Email
+"Reminder: Office will be closed Monday for the holiday.",Safe Email
+"Security alert: Unusual network activity flagged on your account.",Phishing Email
+"Attached is the guest list for the holiday event.",Safe Email
+"Reset your credentials now to avoid data loss.",Phishing Email
+"Hi team, don't forget to submit your peer reviews this week.",Safe Email
+"We detected login attempts from a suspicious device.",Phishing Email
+"Hey Nina, looping in Alex to help with the tech setup.",Safe Email
+"Unusual behavior triggered our automated lockdown. Unlock here.",Phishing Email
+"Here's the final version of the brand guidelines document.",Safe Email
+"Act quickly: We’re unable to verify your identity.",Phishing Email
+"Appreciate everyone’s efforts getting the update live on time.",Safe Email
+"Click here to restore full access to your secure folder.",Phishing Email
+"Let’s align on the campaign messaging during Monday’s sync.",Safe Email
+"Your rewards points are about to expire. Redeem now.",Phishing Email
+"Hi John, attached is the updated version of the sales sheet.",Safe Email
+"Confirm your login to prevent your account from being locked.",Phishing Email
+"Please confirm your attendance for tomorrow’s strategy session.",Safe Email
+"You’ve received a secure document. Click to unlock.",Phishing Email
+"Here’s the Zoom link for next week's onboarding session.",Safe Email
+"You were selected to receive a $250 eGift card.",Phishing Email
+"Friendly reminder: today’s standup is at 10:00 AM instead of 9:30.",Safe Email
+"Failure to validate account ownership will result in closure.",Phishing Email
+"Here’s a summary of our quarterly metrics and wins—great work team!",Safe Email
+"You must review your billing history to keep services active.",Phishing Email
+"Attached is the updated travel itinerary for the conference trip.",Safe Email
+"One last step: Confirm your account before expiration.",Phishing Email
+"Reminder: Please submit questions for tomorrow’s panel.",Safe Email
+"Alert: We’ve suspended your account for security purposes.",Phishing Email
+"Hey Sam, thanks again for covering my shift yesterday!",Safe Email
+"Action required: An unknown user accessed your profile.",Phishing Email
+"Hi Alyssa, your slide deck for Thursday’s talk is attached.",Safe Email
+"Click to validate recent password change activity.",Phishing Email
+"Check out the new company perks listed in the portal.",Safe Email
+"Immediate attention needed: suspicious file download detected.",Phishing Email
+"Let’s finalize Q3 goals during our Friday check-in.",Safe Email
+"Multiple login attempts detected from unrecognized device.",Phishing Email
+"Thanks for joining the fireside chat today!",Safe Email
+"Warning: Suspicious download activity was found on your profile.",Phishing Email
+"Hi team, see attached notes from our workshop last week.",Safe Email
+"Login immediately to avoid service interruption.",Phishing Email
+"Here's a preview of the rebranding assets for review.",Safe Email
+"Reset now to maintain full account access.",Phishing Email
+"Great collaboration on this campaign rollout—cheers to the team!",Safe Email
+"An unknown party has attempted to change your password.",Phishing Email
+"Just wanted to say congrats on hitting your Q2 targets!",Safe Email
+"You must verify your credentials to continue receiving messages.",Phishing Email
+"Please review the attached supplier comparison chart.",Safe Email
+"Urgent notice: We've restricted your email access.",Phishing Email
+"Hi Ray, looping you in on the client onboarding notes.",Safe Email
+"We couldn’t deliver your last email. Click here to resend.",Phishing Email
+"See the attached spreadsheet for the new leads.",Safe Email
+"Suspicious billing changes were made. Verify to undo.",Phishing Email
+"Thanks for helping with the team workshop logistics!",Safe Email
+"Unlock your bonus offer by confirming your details.",Phishing Email
+"Here’s the latest update from the product development team.",Safe Email
+"Review your login activity or risk being locked out.",Phishing Email
+"Hi Marcus, here’s the final Q1 wrap-up deck for your review.",Safe Email
+"Your system credentials have expired. Click to renew.",Phishing Email
+"Reminder: Submit your travel expense form by Friday.",Safe Email
+"Someone attempted to access your account. Take action now.",Phishing Email
+"Hey team, lunch has been moved to 12:30—see you there!",Safe Email
+"Login immediately to keep your files from being deleted.",Phishing Email
+"Attached is the performance dashboard for March.",Safe Email
+"Critical action required: We've noticed unauthorized access.",Phishing Email
+"Don’t forget to sign up for next week's volunteer event.",Safe Email
+"Verify your account ownership to maintain email access.",Phishing Email
+"Hi Rachel, I’ve updated the team’s weekly status tracker.",Safe Email
+"Your profile information appears to be incorrect. Click here to verify.",Phishing Email
+"Great work pushing the update to production last night!",Safe Email
+"You must verify your identity or lose access to your inbox.",Phishing Email
+"Please confirm your shipping preferences before noon tomorrow.",Safe Email
+"Security alert: Password reset request made from unknown device.",Phishing Email
+"Let’s meet in Room 3C for this afternoon’s review session.",Safe Email
+"You’ve received a confidential file. Download to continue.",Phishing Email
+"Just circling back on the rebranding color palette you proposed.",Safe Email
+"Update your email recovery information now.",Phishing Email
+"Thanks for attending our internal AMA—great questions today.",Safe Email
+"Unrecognized device signed in from a new location.",Phishing Email
+"Here’s a copy of the finalized training schedule.",Safe Email
+"Your file storage limit has been reached. Click to increase.",Phishing Email
+"Hi Ava, thanks for confirming attendance for the investor roundtable.",Safe Email
+"Action needed: Confirm your billing information now.",Phishing Email
+"Welcome to the dev team, Julia! Excited to have you here.",Safe Email
+"New browser login detected. Please validate immediately.",Phishing Email
+"Check the shared folder for updated creative assets.",Safe Email
+"Your access has been limited due to suspicious behavior.",Phishing Email
+"Let’s plan the launch timeline during Tuesday’s call.",Safe Email
+"Critical system alert: Verify identity to regain access.",Phishing Email
+"Hey team, attached are the talking points for Thursday’s town hall.",Safe Email
+"Suspicious behavior detected. Change your password now.",Phishing Email
+"Just updated the client list in the CRM—take a look.",Safe Email
+"Update your credentials to continue using our platform.",Phishing Email
+"Hi Kate, looping you in on the social campaign results.",Safe Email
+"Unusual login location flagged. Confirm or reset password.",Phishing Email
+"Thanks again for your help during onboarding week!",Safe Email
+"Account error: Profile flagged for suspicious access.",Phishing Email
+"Please approve the newsletter copy by EOD.",Safe Email
+"Security check required to maintain account access.",Phishing Email
+"Reminder: Quarterly survey closes this Friday.",Safe Email
+"Suspicious download activity reported on your account.",Phishing Email
+"Sharing updated meeting notes from this morning’s check-in.",Safe Email
+"Click to complete your security verification.",Phishing Email
+"Let’s meet at 3 PM to go over campaign results.",Safe Email
+"Account flagged: unusual login patterns detected.",Phishing Email
+"Hi Olivia, attached is the data sheet for the vendor review.",Safe Email
+"Email verification required within 24 hours.",Phishing Email
+"Thanks again for joining the internal product demo.",Safe Email
+"Your inbox access will be limited unless verified.",Phishing Email
+"Hey Jordan, I dropped the final logo files in the shared drive.",Safe Email
+"Failure to act will result in permanent data deletion.",Phishing Email
+"Just confirming we’re still on for the client meeting at 2.",Safe Email
+"Reset your password to avoid unauthorized access.",Phishing Email
+"Hi Mel, here’s the expense policy update you requested.",Safe Email
+"Protect your account from recent threats—click here.",Phishing Email
+"Please RSVP for the lunch & learn next Wednesday.",Safe Email
+"You have pending security issues. Resolve them now.",Phishing Email
+"Sharing the link to today’s webinar recording.",Safe Email
+"Suspicious sign-in attempt detected. Locking account.",Phishing Email
+"Team, please fill in your weekly goals by end of day.",Safe Email
+"Unverified login from foreign IP address—secure account.",Phishing Email
+"Thanks for finalizing the wireframe layout!",Safe Email
+"Critical alert: email integrity compromised. Act now.",Phishing Email
+"Attached is the document checklist for audit prep.",Safe Email
+"You’ve reached your data limit. Pay now to continue access.",Phishing Email
+"Let’s connect on Slack for the website bug list.",Safe Email
+"You must authenticate your account to avoid restrictions.",Phishing Email
+"Reminder: HR compliance training deadline is next Tuesday.",Safe Email
+"You’ve earned a $100 reward. Click to redeem.",Phishing Email
+"Hi Darren, I uploaded the investor call recording to Drive.",Safe Email
+"Update your verification settings or lose access.",Phishing Email
+"Just flagging a typo in the project roadmap doc.",Safe Email
+"Unauthorized change detected. Confirm identity now.",Phishing Email
+"Please send over your slides for tomorrow’s briefing.",Safe Email
+"Click here to activate enhanced protection features.",Phishing Email
+"Your performance review feedback form is now available.",Safe Email
+"Suspicious email activity detected. Click to confirm.",Phishing Email
+"Hi Taylor, thanks for taking notes at the leadership sync.",Safe Email
+"You’ve exceeded your mailbox size limit. Clear storage now.",Phishing Email
+"Don’t forget to join the Friday coffee catch-up.",Safe Email
+"Your online profile was accessed from a new location.",Phishing Email
+"Just shared the event checklist with the whole team.",Safe Email
+"Email deactivation in progress. Cancel it now.",Phishing Email
+"Thanks again for helping coordinate the client event.",Safe Email
+"Confirm account ownership to lift current restrictions.",Phishing Email
+"Attached is the updated recruiting brochure.",Safe Email
+"Failure to log in will suspend your credentials.",Phishing Email
+"Hi team, reminder to submit nominations for team awards.",Safe Email
+"System flagged your login history. Review activity.",Phishing Email
+"Let’s finalize deliverables during today’s sync.",Safe Email
+"Password change required to meet security standards.",Phishing Email
+"Please sign the updated employee handbook.",Safe Email
+"Click to validate your credentials and prevent lockout.",Phishing Email
+"Hey Jen, looping you in on the feedback from legal.",Safe Email
+"New password request initiated. Confirm identity.",Phishing Email
+"Reminder: Complete your quarterly goal check-in by Thursday.",Safe Email
+"Immediate login required: suspicious attempt detected.",Phishing Email
+"Hi Zoe, just shared the updated customer personas deck.",Safe Email
+"Click now to stop account suspension.",Phishing Email
+"Thanks for joining the Q&A session—lots of great insights!",Safe Email
+"Security alert: unknown device connected to your network.",Phishing Email
+"Here’s the updated campaign tracking sheet.",Safe Email
+"Final warning: account flagged for fraud review.",Phishing Email
+"Let’s push the meeting to 4 PM—conflict at 3.",Safe Email
+"Action required: password validation pending.",Phishing Email
+"Hey Chris, I added your comments to the design doc.",Safe Email
+"You must secure your account now to prevent unauthorized access.",Phishing Email
+"Attached is the revised version of the investor pitch deck.",Safe Email
+"Update your credentials immediately to restore access.",Phishing Email
+"Looking forward to your session at the summit!",Safe Email
+"Critical alert: recovery info outdated. Update now.",Phishing Email
+"Hi Aaron, the budget spreadsheet is now live in the folder.",Safe Email
+"Your personal information was compromised. Secure it now.",Phishing Email
+"Don’t forget to check out the HR policy update.",Safe Email
+"Unusual login pattern detected. Click to verify.",Phishing Email
+"Please confirm the print order for next week’s event.",Safe Email
+"Click to restore your full email access now.",Phishing Email
+"Thanks for catching that typo in the release notes!",Safe Email
+"Last chance to secure your inbox. Act now.",Phishing Email
+"Reminder: Send in your availability for next month’s sprint planning.",Safe Email
+"You’ve received a confidential document. Open securely here.",Phishing Email
+"Hi Maria, looping in the vendor for asset delivery timeline.",Safe Email
+"Suspicious change in login habits. Secure account.",Phishing Email
+"Please review attached comments from the legal team.",Safe Email
+"Account under review. Verify to regain full functionality.",Phishing Email
+"Sharing the updated mockups for homepage redesign.",Safe Email
+"Account locked due to suspicious login activity.",Phishing Email
+"Reminder: Strategy workshop is scheduled for 11 AM tomorrow.",Safe Email
+"You have 1 unread secure message—click to open.",Phishing Email
+"Hi Nate, can we add this topic to Monday’s agenda?",Safe Email
+"You’ve received a secure access alert. Click to confirm.",Phishing Email
+"Great job on the product roadmap presentation!",Safe Email
+"Confirm device activity to retain access privileges.",Phishing Email
+"Thanks for submitting your goals for this review cycle.",Safe Email
+"Unverified login attempt blocked. Verify now.",Phishing Email
+"Hey Jamie, uploaded the finalized press release to the folder.",Safe Email
+"Click here to activate multi-layer protection on your profile.",Phishing Email
+"Reminder: DEI training registration closes this Friday.",Safe Email
+"Suspicious device detected in your profile. Lock it down now.",Phishing Email
+"Let’s regroup after lunch to align on launch deliverables.",Safe Email
+"Unusual behavior noticed in your browsing patterns.",Phishing Email
+"Attached are the top-line metrics from last quarter.",Safe Email
+"You’ve exceeded your mailbox limit. Upgrade now.",Phishing Email
+"Hi Claire, sharing updated onboarding resources with the team.",Safe Email
+"Immediate response needed: unknown login flagged.",Phishing Email
+"Nice work pushing the prototype to staging ahead of schedule!",Safe Email
+"Profile access restricted. Restore identity here.",Phishing Email
+"Please upload the signed contract by the end of the day.",Safe Email
+"Your login session has expired. Reauthenticate now.",Phishing Email
+"Hi Leah, added your edits to the QBR slide deck.",Safe Email
+"Critical alert: password reset required immediately.",Phishing Email
+"Sharing the latest press clippings for media coverage report.",Safe Email
+"You’ve triggered a security event. Confirm if this was you.",Phishing Email
+"Let’s align on the final script before Thursday’s webinar.",Safe Email
+"Final notice: credentials expire in 12 hours.",Phishing Email
+"Thanks again for speaking on yesterday’s webinar!",Safe Email
+"Unusual access activity detected. Locking for safety.",Phishing Email
+"Here’s the master list of approved vendors.",Safe Email
+"Click now to confirm identity and unlock your profile.",Phishing Email
+"Hey team, pushing our check-in to 11:30 due to conflict.",Safe Email
+"Your password expires today. Update now to continue.",Phishing Email
+"Friendly reminder: lunch & learn is tomorrow at noon.",Safe Email
+"Suspicious activity reported from your account location.",Phishing Email
+"Hi Ava, your expense report has been approved.",Safe Email
+"Login required to maintain mailbox integrity.",Phishing Email
+"Let’s do a quick sync before tomorrow’s client review.",Safe Email
+"Validate account activity to restore functionality.",Phishing Email
+"Attached is the final version of the promotional flyer.",Safe Email
+"You’re at risk of losing access. Update security info.",Phishing Email
+"Thanks for being flexible on the scheduling change!",Safe Email
+"Action needed: account under compliance check.",Phishing Email
+"Hi Mason, looping you into the editorial timeline thread.",Safe Email
+"Unrecognized sign-in attempt flagged. Confirm now.",Phishing Email
+"Reminder: Submit your bio for the panelist page by Friday.",Safe Email
+"Secure your inbox to avoid suspension.",Phishing Email
+"Check the shared doc for this week’s social calendar.",Safe Email
+"You’ve reached the maximum number of login attempts.",Phishing Email
+"Looking forward to our collab on the client deck!",Safe Email
+"Last step: click to verify account recovery settings.",Phishing Email
+"Please confirm slide order before we finalize the deck.",Safe Email
+"Your credentials were exposed in a security incident.",Phishing Email
+"Hi Jen, attached is your travel confirmation for the conference.",Safe Email
+"Verify account now or risk restricted functionality.",Phishing Email
+"Thanks for updating the contact info for all vendors.",Safe Email
+"Failure to confirm will result in lost access.",Phishing Email
+"Let’s push our weekly sync to Friday at 1 PM.",Safe Email
+"Click here to secure your login session.",Phishing Email
+"Here’s a link to the updated employee directory.",Safe Email
+"You have unauthorized changes in your profile. Click to confirm.",Phishing Email
+"Hi team, see attached notes from the product walk-through.",Safe Email
+"Critical warning: account flagged for unusual behavior.",Phishing Email
+"Appreciate everyone’s help during the internal audit.",Safe Email
+"Log in to review flagged activity on your account.",Phishing Email
+"Just sent over the catering order for your review.",Safe Email
+"Unauthorized login detected. Secure your account immediately.",Phishing Email
+"Reminder: Customer feedback meeting is at 2 PM sharp.",Safe Email
+"Your account has been flagged for suspicious access attempts.",Phishing Email
+"Hi Dana, the creative team uploaded the new branding files.",Safe Email
+"Click here to avoid permanent loss of access.",Phishing Email
+"Thanks for your thoughtful feedback on the hiring process!",Safe Email
+"You’ve exceeded your mailbox limit. Clean up required.",Phishing Email
+"Please share your availability for next week’s kickoff call.",Safe Email
+"Unusual login behavior detected. Lock account now.",Phishing Email
+"Here's the updated infographic for the pitch deck.",Safe Email
+"Your account will be disabled if no action is taken.",Phishing Email
+"Hi Alex, thanks again for leading today’s design review.",Safe Email
+"Verify your account to remove access restrictions.",Phishing Email
+"Looking forward to the Q&A with the leadership team tomorrow!",Safe Email
+"Fraud alert: confirm your payment activity.",Phishing Email
+"Please update the weekly summary in the shared doc.",Safe Email
+"Click here to restore email service immediately.",Phishing Email
+"Thanks again for supporting our customer training rollout!",Safe Email
+"Your recent login has triggered a security warning.",Phishing Email
+"Hi Jamie, see attached draft of the campaign proposal.",Safe Email
+"Unauthorized attempt to access your cloud account detected.",Phishing Email
+"Here’s the link to register for the Friday brown bag session.",Safe Email
+"Account at risk: validate details now.",Phishing Email
+"Reminder: Our town hall is scheduled for Thursday at 10.",Safe Email
+"Suspicious login alert. We’ve frozen your account.",Phishing Email
+"Just a heads up, the event RSVP deadline is tomorrow.",Safe Email
+"Update your credentials or lose access to your mailbox.",Phishing Email
+"Team, excellent job on wrapping the Q2 planning early!",Safe Email
+"Final notice: your account is under review.",Phishing Email
+"Let’s meet at 1 PM instead of noon to finalize the draft.",Safe Email
+"Click here to verify your identity and unlock full access.",Phishing Email
+"Sharing the revised pricing table—please double check figures.",Safe Email
+"Failure to verify identity will limit access.",Phishing Email
+"Friendly reminder: submit your slides by 3 PM today.",Safe Email
+"Immediate verification required for continued service.",Phishing Email
+"Attached is the updated statement of work.",Safe Email
+"Suspicious password change attempt detected.",Phishing Email
+"Hi Ray, can you resend the doc from yesterday’s meeting?",Safe Email
+"Click to complete your verification and avoid suspension.",Phishing Email
+"Thanks for your help prepping for the upcoming product demo.",Safe Email
+"Urgent: Suspicious behavior triggered an account lockdown.",Phishing Email
+"Looping marketing in for final content approval.",Safe Email
+"Unauthorized update request denied. Review details here.",Phishing Email
+"Attached are the final logistics for next week’s event.",Safe Email
+"Login now to remove access limitations.",Phishing Email
+"Great insights on today’s panel—thanks for contributing!",Safe Email
+"Suspicious link clicks detected on your profile.",Phishing Email
+"Hi Ellie, looping you in for asset QA review.",Safe Email
+"New sign-in attempt recorded from an unusual IP address.",Phishing Email
+"Let’s reschedule the training session to next Monday.",Safe Email
+"Unrecognized app connected to your account.",Phishing Email
+"Please join the Zoom call using the link below.",Safe Email
+"Account flagged for irregular activity. Immediate action needed.",Phishing Email
+"Thanks for sharing the meeting notes from the UX workshop.",Safe Email
+"Click here to verify changes made to your profile.",Phishing Email
+"Friendly reminder: tomorrow’s meeting starts at 9:15.",Safe Email
+"Unknown device used to access your credentials.",Phishing Email
+"Team, thanks for your flexibility on today’s sprint planning.",Safe Email
+"You have 1 unread encrypted file. Open here.",Phishing Email
+"Please double-check the formatting in the final version.",Safe Email
+"Your session expired. Login again to continue securely.",Phishing Email
+"Hi Zoe, looping product in to finalize the scope doc.",Safe Email
+"Security alert: confirm your identity within 12 hours.",Phishing Email
+"Let’s catch up during the Thursday check-in.",Safe Email
+"One or more failed login attempts were recorded.",Phishing Email
+"Here’s the signed NDA from the vendor.",Safe Email
+"You’ve received a time-sensitive document. Verify access.",Phishing Email
+"Thanks for confirming your attendance at the strategy meeting.",Safe Email
+"Update your password now to avoid lockout.",Phishing Email
+"Hi Mason, adding you to the internal audit planning thread.",Safe Email
+"An attempt was made to change your email settings.",Phishing Email
+"Don’t forget to complete the benefits enrollment form.",Safe Email
+"Confirm activity on your account to retain access.",Phishing Email
+"Just uploaded the latest social content calendar.",Safe Email
+"Unusual IP address detected in your login history.",Phishing Email
+"Team, let’s finalize the launch checklist by Thursday.",Safe Email
+"You’ve been selected for a rewards bonus. Redeem now.",Phishing Email
+"Thanks for coordinating the customer success session!",Safe Email
+"Immediate login required to resolve account error.",Phishing Email
+"Attached is the budget summary for Q1 projects.",Safe Email
+"Log in now to continue using premium features.",Phishing Email
+"Hi Taylor, let me know if you’d like help drafting the invite.",Safe Email
+"We need your verification to restore access.",Phishing Email
+"Appreciate your hard work on this campaign, everyone!",Safe Email
+"Reset your credentials before your session expires.",Phishing Email
+"Please approve the final social media captions.",Safe Email
+"Your account settings are outdated. Update required.",Phishing Email
+"Just updated the release timeline in the shared doc.",Safe Email
+"You’ve received a system-generated warning. Click here.",Phishing Email
+"Looping in finance to review the new budget proposal.",Safe Email
+"Multiple login failures detected. Confirm your identity.",Phishing Email
+"Reminder: Submit your bio for the speaker spotlight post.",Safe Email
+"Security system flagged your profile. Resolve now.",Phishing Email
+"Here’s the approved quote for the client’s signature.",Safe Email
+"You must act now to avoid permanent deactivation.",Phishing Email
+"Thanks again for helping onboard the new hires!",Safe Email
+"Account access restricted until verification is complete.",Phishing Email
+"Please see attached slide edits from the exec team.",Safe Email
+"Unusual traffic was detected on your device.",Phishing Email
+"Hi team, the workshop agenda is now in the shared folder.",Safe Email
+"Update your account to avoid delays in service.",Phishing Email
+"Thanks for reviewing the documentation draft.",Safe Email
+"Review suspicious login location and take action.",Phishing Email
+"Let’s align after lunch to review the wireframes.",Safe Email
+"Verify your information now to prevent account lock.",Phishing Email
+"Hi Olivia, I’ve sent the files you requested yesterday.",Safe Email
+"Someone tried to reset your password. Click to cancel.",Phishing Email
+"Friendly reminder: peer reviews are due by Monday.",Safe Email
+"Your login attempt was flagged as high risk.",Phishing Email
+"Here are the final edits to the product brief.",Safe Email
+"You’ve received a restricted file. Confirm to access.",Phishing Email
+"Hi Emma, looping you into the internal QA review.",Safe Email
+"Unrecognized sign-in attempt—change your password.",Phishing Email
+"Attached is the approved event signage mockup.",Safe Email
+"Suspicious software detected. Immediate scan required.",Phishing Email
+"Looking forward to seeing you at the all-hands!",Safe Email
+"Your connection was terminated for security reasons.",Phishing Email
+"Please review and approve the vendor shortlist.",Safe Email
+"Click here to reset your account access token.",Phishing Email
+"Hi team, reminder to upload your slides by EOD.",Safe Email
+"You have one pending message waiting for review.",Phishing Email
+"Thanks for supporting the new intern onboarding!",Safe Email
+"Urgent: update credentials to prevent data loss.",Phishing Email
+"Please check the timeline in the updated doc.",Safe Email
+"Your identity has not been confirmed. Act now.",Phishing Email
+"Meeting invite: Thursday’s sprint wrap-up session.",Safe Email
+"Your credentials were used in a failed login attempt.",Phishing Email
+"Looping in creative to finalize design direction.",Safe Email
+"Critical alert: verify login attempt within 24 hours.",Phishing Email
+"Don’t forget to vote in the internal employee awards.",Safe Email
+"Review your profile for suspicious login attempts.",Phishing Email
+"Attached is a recap of the Q3 strategy session.",Safe Email
+"Your account was flagged by our automated system.",Phishing Email
+"Thanks for confirming your panelist time slot.",Safe Email
+"You must log in to approve recent activity.",Phishing Email
+"Sharing the link to last week's product feedback survey.",Safe Email
+"Unknown login recorded in your account history.",Phishing Email
+"Reminder: finalize all design tasks by Friday.",Safe Email
+"Click here to remove restrictions on your inbox.",Phishing Email
+"Hi Rachel, added your edits to the policy doc.",Safe Email
+"Action required: verify access from mobile device.",Phishing Email
+"Great job leading the brainstorming session today!",Safe Email
+"Suspicious activity detected from your location.",Phishing Email
+"Friendly heads-up: the new policy goes live Monday.",Safe Email
+"You’re using an outdated browser version. Update now.",Phishing Email
+"Hi Jordan, just shared the updated call agenda.",Safe Email
+"Your storage is almost full. Upgrade today.",Phishing Email
+"Please submit your session feedback in the attached form.",Safe Email
+"Reset your email settings now for security.",Phishing Email
+"Looping in support to troubleshoot the issue.",Safe Email
+"Click to verify recent login and secure account.",Phishing Email
+"Thanks again for running the UX interview prep!",Safe Email
+"Anomaly found in account activity—take action.",Phishing Email
+"Just added you to the vendor tracking sheet.",Safe Email
+"Log in to update your security profile.",Phishing Email
+"Reminder: Join the team retrospective at 3 PM.",Safe Email
+"Multiple users accessed your account from new devices.",Phishing Email
+"Here’s the final guest list for next week’s panel.",Safe Email
+"You’ve received a protected document. Open now.",Phishing Email
+"Thanks for helping with the case study interviews!",Safe Email
+"Failure to act may result in loss of service.",Phishing Email
+"Hi Priya, looping back on the quarterly report layout.",Safe Email
+"Confirm your account email before expiration.",Phishing Email
+"Attached is the internal comms style guide.",Safe Email
+"Unusual data sync behavior detected on your profile.",Phishing Email
+"Let’s huddle for 15 minutes before the call.",Safe Email
+"Unverified app connected to your account.",Phishing Email
+"Please update your bio for the public team page.",Safe Email
+"Click here to recover your suspended profile.",Phishing Email
+"Thanks again for coordinating the recruiting event!",Safe Email
+"You must take action to recover your email.",Phishing Email
+"Sharing a quick summary from today’s budget call.",Safe Email
+"Unexpected sign-in attempt detected. Confirm here.",Phishing Email
+"Hi Luke, confirming delivery of the print materials.",Safe Email
+"Final alert: system flagged unusual login behavior.",Phishing Email
+"Please review attached conference materials.",Safe Email
+"An unknown device attempted to connect to your account.",Phishing Email
+"Attached is the updated list of OKRs.",Safe Email
+"Immediate password reset required.",Phishing Email
+"Reminder: Office will close early on Friday.",Safe Email
+"Click here to confirm you’re the account owner.",Phishing Email
+"Hi Max, looping in facilities for the room setup request.",Safe Email
+"Suspicious location access attempt flagged.",Phishing Email
+"Please review the media plan before publishing.",Safe Email
+"Critical error found in your login session.",Phishing Email
+"Thanks for submitting the new client contract.",Safe Email
+"Verify the device recently connected to your profile.",Phishing Email
+"Let’s circle up at 10:30 to finalize the timeline.",Safe Email
+"Unauthorized download attempt detected. Reset your login.",Phishing Email
+"Hi Ellie, please see the revised contract draft.",Safe Email
+"You must confirm recent activity to unlock your account.",Phishing Email
+"Reminder: The monthly performance review is due Friday.",Safe Email
+"An unknown user has attempted to access your account.",Phishing Email
+"Thanks for coordinating the offsite logistics!",Safe Email
+"Click here to cancel account termination.",Phishing Email
+"Here’s the project plan based on Monday’s discussion.",Safe Email
+"Login now to revalidate your session token.",Phishing Email
+"Hi team, the client portal is now updated with final assets.",Safe Email
+"Critical issue detected—immediate account confirmation required.",Phishing Email
+"Attached is a quick summary of our Q2 milestones.",Safe Email
+"You have been selected for account authentication.",Phishing Email
+"Let’s lock in the travel dates for next month.",Safe Email
+"You must confirm your payment information.",Phishing Email
+"Thanks again for the great input on the product brief!",Safe Email
+"Your inbox may be compromised—verify now.",Phishing Email
+"Please check the new format for the quarterly report.",Safe Email
+"Security threat detected: change password now.",Phishing Email
+"Hi Noah, I’ve added comments on the draft memo.",Safe Email
+"You’ve received a system-critical security alert.",Phishing Email
+"Here’s the final invoice summary for client billing.",Safe Email
+"Click here to stop auto-deletion of your data.",Phishing Email
+"Let’s meet at 3:15 to finalize the demo setup.",Safe Email
+"Identity mismatch detected—review your login activity.",Phishing Email
+"Friendly reminder: submit end-of-week updates in the tracker.",Safe Email
+"Urgent: verify your phone number for account recovery.",Phishing Email
+"Hi team, please review the updated design checklist.",Safe Email
+"Action required to maintain inbox access.",Phishing Email
+"Thanks for the great feedback on the deck design!",Safe Email
+"Suspicious sign-in attempt from foreign IP detected.",Phishing Email
+"Don’t forget to fill out the post-event survey.",Safe Email
+"System error encountered. Reset account credentials.",Phishing Email
+"Hi Clara, here’s the updated vendor list for your review.",Safe Email
+"You’re using an outdated authentication method. Fix now.",Phishing Email
+"Just pushed the latest patch notes to the shared doc.",Safe Email
+"Restore full account functionality by verifying now.",Phishing Email
+"Reminder: all onboarding forms are due by Friday.",Safe Email
+"Review suspicious behavior from your login location.",Phishing Email
+"Here’s the summary deck for tomorrow’s pitch.",Safe Email
+"One-click verification required for secure login.",Phishing Email
+"Hi Peter, great call today—appreciate your insights!",Safe Email
+"Confirm account details to prevent automatic logout.",Phishing Email
+"Let’s debrief after the training session at 1 PM.",Safe Email
+"You must verify ownership to maintain your email.",Phishing Email
+"Please approve the updated copy before launch.",Safe Email
+"Failure to validate account identity detected.",Phishing Email
+"Great collaboration during today’s workshop!",Safe Email
+"Security anomaly triggered auto-lock sequence.",Phishing Email
+"Attached is the feedback summary from leadership.",Safe Email
+"You have an unread secure message. View it now.",Phishing Email
+"Hi Michelle, I’ve updated the project schedule.",Safe Email
+"Your session was accessed from an unknown device.",Phishing Email
+"Looping in IT for help with the shared drive issue.",Safe Email
+"Update your login method to meet new security standards.",Phishing Email
+"Please review and finalize the meeting slides.",Safe Email
+"Your account will be deactivated unless verified.",Phishing Email
+"Hi Zack, linking you to the Q&A prep doc.",Safe Email
+"Reset your security PIN now to avoid loss of access.",Phishing Email
+"Thanks again for running today’s walkthrough!",Safe Email
+"You have a pending verification request.",Phishing Email
+"Attached is the seating chart for next week's event.",Safe Email
+"Your account is under review. Login to respond.",Phishing Email
+"Reminder: Join today’s check-in at 4 PM.",Safe Email
+"Unauthorized app connection blocked—verify now.",Phishing Email
+"Hi Lucy, your travel approval has been processed.",Safe Email
+"Immediate password update required to continue access.",Phishing Email
+"Sharing final checklist before the upcoming launch.",Safe Email
+"You’ve triggered a suspicious login alert.",Phishing Email
+"Let’s sync after lunch to review the draft FAQ.",Safe Email
+"System scan found anomalies in your account.",Phishing Email
+"Please double-check the attachment labels.",Safe Email
+"Unrecognized browser detected. Review session now.",Phishing Email
+"Thanks for following up on the open questions!",Safe Email
+"Validate your access to receive critical updates.",Phishing Email
+"Meeting moved to 2:30—calendar invite updated.",Safe Email
+"Your profile has missing details. Submit now.",Phishing Email
+"Looping marketing in for review of the email blast.",Safe Email
+"Suspicious login prevented. Reset password required.",Phishing Email
+"Just confirming the time for next week’s interview.",Safe Email
+"You must authorize this activity to continue.",Phishing Email
+"Attached is the internal roadmap update for Q4.",Safe Email
+"Security alert: login attempt from blocked location.",Phishing Email
+"Hi Ava, sent over the client feedback for revisions.",Safe Email
+"Critical risk flagged in your authentication flow.",Phishing Email
+"Let’s finalize the UX flow this afternoon.",Safe Email
+"You’ve reached your monthly login threshold.",Phishing Email
+"Reminder: Register for the policy briefing today.",Safe Email
+"Suspicious behavior detected on your profile page.",Phishing Email
+"Here’s the link to access the recorded session.",Safe Email
+"Urgent: confirm your identity now.",Phishing Email
+"Thanks for confirming the timeline for delivery.",Safe Email
+"New login attempt detected from untrusted device.",Phishing Email
+"Hi Nora, attaching the updated session outline.",Safe Email
+"You must verify device access or risk deactivation.",Phishing Email
+"Please review your talking points before tomorrow’s call.",Safe Email
+"Your email will be paused unless confirmed.",Phishing Email
+"Great collaboration on this morning’s creative review!",Safe Email
+"Suspicious access request logged on your profile.",Phishing Email
+"Reminder: Content submissions are due by Thursday.",Safe Email
+"Click here to prevent lockout from your account.",Phishing Email
+"Hi James, I added the final asset links to the tracker.",Safe Email
+"Suspicious file upload attempt detected.",Phishing Email
+"Let’s touch base about timelines during today’s sync.",Safe Email
+"Security warning: confirm recent login location.",Phishing Email
+"Please approve final layout by end of day.",Safe Email
+"Multiple unverified login attempts were blocked.",Phishing Email
+"Here’s a preview of the updated ad placements.",Safe Email
+"System threat detected. Act now to protect your email.",Phishing Email
+"Hi Laura, thanks for reviewing the PR outline draft.",Safe Email
+"Your credentials were used from an unusual location.",Phishing Email
+"Looping you in for next week’s editorial brief.",Safe Email
+"Profile flagged due to login discrepancies.",Phishing Email
+"Thanks again for your support during planning week!",Safe Email
+"Click to avoid suspension of mailbox access.",Phishing Email
+"Sharing final notes from this morning’s leadership forum.",Safe Email
+"Unverified device login needs your review.",Phishing Email
+"Hi Owen, your session outline looks great—attached with notes.",Safe Email
+"Reset security settings now to prevent fraud.",Phishing Email
+"Let’s huddle for 15 minutes before the leadership check-in.",Safe Email
+"Unusual request pattern found on your profile.",Phishing Email
+"Friendly reminder: complete team survey by Friday.",Safe Email
+"Data sync failure occurred. Verify identity.",Phishing Email
+"Looping content team into this request thread.",Safe Email
+"You must revalidate your session token.",Phishing Email
+"Thanks for preparing the revised onboarding slides!",Safe Email
+"Critical behavior alert issued. Review account.",Phishing Email
+"Reminder: Review compliance slides before training.",Safe Email
+"Immediate review required: suspicious action detected.",Phishing Email
+"Hi team, final version of the proposal is now live.",Safe Email
+"You have triggered a login verification event.",Phishing Email
+"Please add your comments to the shared strategy doc.",Safe Email
+"Unusual file access attempt blocked.",Phishing Email
+"Hi Theo, looping in events for venue confirmation.",Safe Email
+"Security protocol activated due to multiple failures.",Phishing Email
+"Here’s the RSVP list for the community breakfast.",Safe Email
+"Reset your email preferences or lose access.",Phishing Email
+"Let’s finalize all edits before noon.",Safe Email
+"Access temporarily restricted due to flagged activity.",Phishing Email
+"Thanks for your help with the newsletter layout!",Safe Email
+"Your session will be closed unless validated.",Phishing Email
+"Please see updated invite for Monday’s workshop.",Safe Email
+"Unusual password reset request initiated.",Phishing Email
+"Hi Leah, your flight details are confirmed—see attached.",Safe Email
+"Security warning: confirm recovery address.",Phishing Email
+"Let’s catch up after the client debrief.",Safe Email
+"Action needed: review your recent login sessions.",Phishing Email
+"Friendly reminder: submit content for review today.",Safe Email
+"Critical issue flagged—verify account now.",Phishing Email
+"Thanks again for hosting today’s internal AMA!",Safe Email
+"Account integrity check failed. Confirm identity.",Phishing Email
+"Looping HR into this policy update thread.",Safe Email
+"Suspicious permission change detected.",Phishing Email
+"Reminder: Wrap up any open action items by EOD.",Safe Email
+"Your identity cannot be confirmed. Revalidate now.",Phishing Email
+"Hi Marcus, I shared the updated project brief.",Safe Email
+"Secure your account now to avoid access denial.",Phishing Email
+"Let’s finalize the Q&A agenda during tomorrow’s sync.",Safe Email
+"Login attempt blocked due to suspicious behavior.",Phishing Email
+"Team, the calendar for next sprint has been shared.",Safe Email
+"Click here to unlock encrypted account features.",Phishing Email
+"Please proofread the announcement email draft.",Safe Email
+"New device connected. Review details immediately.",Phishing Email
+"Great work launching the landing page today!",Safe Email
+"Your account was used in a flagged transaction.",Phishing Email
+"Sharing latest version of the content roadmap.",Safe Email
+"Log in to approve your access change request.",Phishing Email
+"Thanks for jumping in on the client call today!",Safe Email
+"Unusual IP flagged in your login history.",Phishing Email
+"Hi Nick, the legal edits are in the shared doc.",Safe Email
+"Critical login validation needed now.",Phishing Email
+"Reminder: All teams should report by 4 PM.",Safe Email
+"You’ve been logged out due to access conflict.",Phishing Email
+"Here’s a first draft of the new onboarding checklist.",Safe Email
+"Confirm profile info or risk email restriction.",Phishing Email
+"Thanks for the fast turnaround on the sales slides!",Safe Email
+"Password change recommended to meet new security policy.",Phishing Email
+"Let’s meet briefly before the beta launch.",Safe Email
+"Account will expire unless verified soon.",Phishing Email
+"Please review attached for tomorrow’s QBR deck.",Safe Email
+"Click now to view pending security update.",Phishing Email
+"Hi team, updated assets are now live in the drive.",Safe Email
+"Suspicious backup request received. Confirm now.",Phishing Email
+"Thanks again for supporting the hiring sprint!",Safe Email
+"Login review required due to high-risk activity.",Phishing Email
+"Reminder: Submit your team highlights for the newsletter.",Safe Email
+"Action required: Your account will be locked in 24 hours.",Phishing Email
+"Hi Ella, just looping you in on the guest speaker schedule.",Safe Email
+"Your billing info could not be verified. Click to resolve.",Phishing Email
+"Thanks for confirming the room setup for Thursday.",Safe Email
+"Immediate action needed: Unverified profile update detected.",Phishing Email
+"Please check the revised language in the ad copy.",Safe Email
+"You must complete your identity check to keep access.",Phishing Email
+"Here’s the event feedback summary from last Friday.",Safe Email
+"Your login session has expired. Sign in again to continue.",Phishing Email
+"Let’s finalize the social media plan after lunch.",Safe Email
+"Critical warning: Suspicious request blocked.",Phishing Email
+"Thanks for submitting your leave request—approved!",Safe Email
+"Security error encountered. Click here to fix.",Phishing Email
+"Hi Dana, attached are the internal notes for your review.",Safe Email
+"Multiple devices linked to your account. Confirm access.",Phishing Email
+"Team, please submit suggestions for the upcoming offsite.",Safe Email
+"Your account recovery email was changed. Confirm it here.",Phishing Email
+"Reminder: Marketing sync rescheduled to 2 PM today.",Safe Email
+"Suspicious software attempted to access your inbox.",Phishing Email
+"Let’s plan a short check-in before the launch meeting.",Safe Email
+"You must verify account settings to avoid lockout.",Phishing Email
+"Great insights in the customer journey workshop today!",Safe Email
+"System alert: Email queue delivery failure detected.",Phishing Email
+"Attached are the logistics notes for Thursday’s event.",Safe Email
+"Login required: Access verification pending.",Phishing Email
+"Thanks again for organizing the team happy hour!",Safe Email
+"You’re one step away from unlocking your account.",Phishing Email
+"Hi Olivia, sharing client edits for next week’s proposal.",Safe Email
+"Warning: Your password was exposed in a recent breach.",Phishing Email
+"Looping in compliance to review policy wording.",Safe Email
+"Unauthorized login blocked. Review your device history.",Phishing Email
+"Reminder: Add all agenda items by 3 PM today.",Safe Email
+"Click to resolve the alert triggered on your profile.",Phishing Email
+"Please review the revised email header designs.",Safe Email
+"Your email preferences need to be reconfigured.",Phishing Email
+"Great job wrapping up the internal Q&A document!",Safe Email
+"System failure detected—secure account immediately.",Phishing Email
+"Attached is the final image set for the campaign.",Safe Email
+"Confirm your profile settings to enable access.",Phishing Email
+"Hi Ben, confirming Thursday's check-in at 9 AM.",Safe Email
+"New login detected on a jailbroken device. Action required.",Phishing Email
+"Thanks for compiling the annual team awards summary!",Safe Email
+"Verify your phone number to complete two-factor setup.",Phishing Email
+"Please update the product slide deck with new stats.",Safe Email
+"Critical warning: Account behavior anomaly detected.",Phishing Email
+"Looping you in for the content calendar sign-off.",Safe Email
+"Immediate account review required to prevent lockout.",Phishing Email
+"Reminder: All Q1 goals should be logged by Friday.",Safe Email
+"You’ve received a secure message. Decrypt now.",Phishing Email
+"Great energy in today’s planning session—thank you!",Safe Email
+"Reset your access credentials within the hour.",Phishing Email
+"Hi team, please share Q2 insights in the tracker.",Safe Email
+"An unverified device tried to sync with your inbox.",Phishing Email
+"Let’s finalize the order quantities in today’s call.",Safe Email
+"Important: Update login info to restore service.",Phishing Email
+"Thanks again for all your help on the new hire orientation!",Safe Email
+"Login details invalid. Click here to verify.",Phishing Email
+"Attached is the first draft of the new design guidelines.",Safe Email
+"You must approve account permissions now.",Phishing Email
+"Hi Megan, looping you into the weekly alignment doc.",Safe Email
+"An issue was detected with your latest email.",Phishing Email
+"Just a reminder to RSVP for Friday’s innovation roundtable.",Safe Email
+"Critical threat identified in login activity.",Phishing Email
+"Let’s go over the event agenda in today’s sync.",Safe Email
+"Review recent access history to remove restrictions.",Phishing Email
+"Appreciate your feedback on the updated presentation flow!",Safe Email
+"You’ve reached your account action limit. Confirm to continue.",Phishing Email
+"Please see attached travel approval form for your trip.",Safe Email
+"Suspicious device attempt blocked. Confirm login here.",Phishing Email
+"Reminder: Final vendor approvals are due today.",Safe Email
+"You have 1 encrypted file waiting. Verify to view.",Phishing Email
+"Great presentation this morning—awesome job!",Safe Email
+"Your account recovery method must be updated.",Phishing Email
+"Hi Sam, I added some polish to the client memo.",Safe Email
+"Email flagged for irregular login behavior.",Phishing Email
+"Please proofread the copy deck by EOD.",Safe Email
+"New device detected. Secure your account now.",Phishing Email
+"Thanks for helping wrap up the postmortem notes!",Safe Email
+"System scan incomplete. Action needed immediately.",Phishing Email
+"Let’s go over campaign performance in the next sync.",Safe Email
+"Click to confirm your recent changes.",Phishing Email
+"Attached is the updated booth layout for the expo.",Safe Email
+"You’ve received a password reset request. Was it you?",Phishing Email
+"Hi Grace, I’ve shared the new brand video draft.",Safe Email
+"One or more account rules were violated. Review now.",Phishing Email
+"Please share any final comments before 5 PM.",Safe Email
+"Unauthorized IP attempt has been logged.",Phishing Email
+"Reminder: Join the roadmap review at 3 PM today.",Safe Email
+"You are required to reauthenticate your session.",Phishing Email
+"Thanks for contributing to the customer journey mapping!",Safe Email
+"Click to verify unknown login from mobile device.",Phishing Email
+"Hi team, sharing the notes from today’s panel prep.",Safe Email
+"Your profile has been flagged for immediate review.",Phishing Email
+"Reminder: Submit slides for the leadership update.",Safe Email
+"Click here to confirm your recent account changes.",Phishing Email
+"Please join the vendor walkthrough at 10 AM tomorrow.",Safe Email
+"Unusual access alert: Verify your activity now.",Phishing Email
+"Thanks for the quick turnaround on the QBR edits!",Safe Email
+"You must update your recovery email to retain access.",Phishing Email
+"Hi Maya, I’ve sent the draft script for feedback.",Safe Email
+"Unauthorized account activity found. Lock initiated.",Phishing Email
+"Let’s align on the feature roadmap during the Thursday call.",Safe Email
+"Reset your login method to avoid security issues.",Phishing Email
+"Please check the budget numbers in the attached sheet.",Safe Email
+"System notice: Profile verification required.",Phishing Email
+"Friendly reminder: RSVP deadline is Wednesday noon.",Safe Email
+"Your account is being temporarily suspended. Act fast.",Phishing Email
+"Thanks for helping coordinate the virtual roundtable.",Safe Email
+"Your identity could not be verified. Confirm now.",Phishing Email
+"Here’s the final speaker list for the webinar.",Safe Email
+"You’ve been selected for mandatory verification.",Phishing Email
+"Reminder: Review the updated privacy policy document.",Safe Email
+"Multiple unauthorized login attempts detected.",Phishing Email
+"Looping in PR for a final media review.",Safe Email
+"Critical issue: unverified login needs attention.",Phishing Email
+"Hi Adam, your updates are live on the site!",Safe Email
+"System alert: identity validation failed.",Phishing Email
+"Thanks for submitting Q2 team goals early!",Safe Email
+"Password update required due to security breach.",Phishing Email
+"Hi Julia, just confirming our lunch check-in on Thursday.",Safe Email
+"Review required: recent login from foreign location.",Phishing Email
+"Here’s the editable version of the campaign checklist.",Safe Email
+"Urgent action needed: Account access limited.",Phishing Email
+"Please share your edits by 2 PM to meet print deadline.",Safe Email
+"Security event triggered. Re-authentication required.",Phishing Email
+"Just confirming final schedule for internal reviews.",Safe Email
+"Unusual email activity flagged for review.",Phishing Email
+"Looping in Alex for design system feedback.",Safe Email
+"Verify your credentials to restore mailbox features.",Phishing Email
+"Hi Sarah, added the link to the draft doc below.",Safe Email
+"You have pending security updates. Apply now.",Phishing Email
+"Reminder: Stakeholder meeting starts at 11:15.",Safe Email
+"Immediate login recommended due to recent error.",Phishing Email
+"Here’s a cleaned-up version of the analytics chart.",Safe Email
+"Security mismatch found. Validate user data.",Phishing Email
+"Please submit all documentation by end of week.",Safe Email
+"Critical: Unverified identity found on login.",Phishing Email
+"Team, thanks for getting those metrics finalized early!",Safe Email
+"Confirm access to your account before suspension.",Phishing Email
+"Hi Rachel, looping in engineering on the performance issue.",Safe Email
+"Unauthorized application access was denied. Review activity.",Phishing Email
+"Just dropping the vendor contract in the shared folder.",Safe Email
+"Your password must be updated to continue.",Phishing Email
+"Final call: marketing approvals due today.",Safe Email
+"Security validation incomplete. Action needed.",Phishing Email
+"Let’s debrief on the pilot test results tomorrow.",Safe Email
+"Profile data flagged. Manual review triggered.",Phishing Email
+"Reminder: Review onboarding materials with new hires.",Safe Email
+"You are at risk of account lockout. Verify identity.",Phishing Email
+"Hi team, kickoff slides are now in the drive.",Safe Email
+"Click to authenticate login and access services.",Phishing Email
+"Thanks for double-checking the launch timing!",Safe Email
+"Warning: Your access has been downgraded.",Phishing Email
+"Looping back on the executive summary draft.",Safe Email
+"Security token expired. Reissue required.",Phishing Email
+"Here’s the recap from today’s operations sync.",Safe Email
+"Multiple locations accessed your profile.",Phishing Email
+"Please finalize the order before 3 PM.",Safe Email
+"You must verify your phone number now.",Phishing Email
+"Just confirming the location for next week’s meetup.",Safe Email
+"Click to validate recovery address.",Phishing Email
+"Thanks for handling the design sprint notes!",Safe Email
+"Suspicious geolocation pattern detected.",Phishing Email
+"Please use the updated deck for next week’s pitch.",Safe Email
+"Log in immediately to retain access.",Phishing Email
+"Let’s align the deck design in this afternoon’s call.",Safe Email
+"Anomalous traffic found on your profile.",Phishing Email
+"Friendly reminder: submit agenda items today.",Safe Email
+"Verify ownership of your credentials now.",Phishing Email
+"Sharing this week’s performance dashboard snapshot.",Safe Email
+"Unusual configuration found in login settings.",Phishing Email
+"Thanks again for taking lead on the rollout!",Safe Email
+"Immediate login required to stop lockdown.",Phishing Email
+"Hi Quinn, here’s the calendar for your onboarding week.",Safe Email
+"Your profile has been marked for audit. Verify.",Phishing Email
+"Please check if all webinar invites were sent.",Safe Email
+"System access will be restricted in 12 hours.",Phishing Email
+"Looping product in for signoff on the content brief.",Safe Email
+"You must validate your inbox before it’s disabled.",Phishing Email
+"Thanks again for organizing today’s feedback session.",Safe Email
+"Warning: account integrity compromised. Confirm now.",Phishing Email
+"Please review the media list before the press deadline.",Safe Email
+"Your session will expire in 15 minutes. Log in again.",Phishing Email
+"Hi team, the final budget tracker is now in Drive.",Safe Email
+"Suspicious update blocked—review your login history.",Phishing Email
+"Let’s catch up on the partner handoff plan this afternoon.",Safe Email
+"Unusual traffic reported in your account region.",Phishing Email
+"Reminder: Review client questions ahead of tomorrow’s call.",Safe Email
+"You have pending items in your inbox. Validate now.",Phishing Email
+"Looping in product to finalize the story mapping.",Safe Email
+"Multiple failed password attempts detected. Take action.",Phishing Email
+"Thanks for updating the event briefing document!",Safe Email
+"Unauthorized sign-in detected. Click to investigate.",Phishing Email
+"Attached is the first draft of the panel invitation email.",Safe Email
+"Critical threat: Login credentials exposed.",Phishing Email
+"Hi Lucas, please review the updated partner deck.",Safe Email
+"Security alert: access attempt from suspicious browser.",Phishing Email
+"Great insights during the campaign alignment meeting!",Safe Email
+"Click here to reset security questions now.",Phishing Email
+"Reminder: Check the booth inventory list for accuracy.",Safe Email
+"You’ve triggered an alert. Confirm identity to proceed.",Phishing Email
+"Please reply with your preferred speaking times.",Safe Email
+"Your authentication token has expired. Reissue it now.",Phishing Email
+"Let’s push tomorrow’s review to 1 PM.",Safe Email
+"Warning: Account behavior outside normal parameters.",Phishing Email
+"Thanks again for facilitating the client walkthrough.",Safe Email
+"You’ve exceeded your email sync limit. Update needed.",Phishing Email
+"Attached is the monthly PR coverage report.",Safe Email
+"Identity mismatch detected. Lock in progress.",Phishing Email
+"Hi Clara, looping you in for QA timeline confirmation.",Safe Email
+"Click here to confirm your recovery method.",Phishing Email
+"Team, the rebranding slide deck has been finalized.",Safe Email
+"Unusual access behavior observed. Review account.",Phishing Email
+"Reminder: Submit your feedback on this quarter’s objectives.",Safe Email
+"Critical update required: Access settings changed.",Phishing Email
+"Please add final images to the brand asset folder.",Safe Email
+"System failure detected. Verify profile now.",Phishing Email
+"Let’s align on success metrics in our sync later today.",Safe Email
+"Unauthorized changes blocked. Confirm security access.",Phishing Email
+"Thank you for submitting your team awards votes!",Safe Email
+"You must confirm ownership to retain access.",Phishing Email
+"Looping facilities in to prep the meeting room setup.",Safe Email
+"Email session expired. Login again to restore connection.",Phishing Email
+"Please share the registration link with all attendees.",Safe Email
+"Alert: Your identity may have been compromised.",Phishing Email
+"Thanks again for wrapping up the client comms plan.",Safe Email
+"Security event: Login from a high-risk device detected.",Phishing Email
+"Let’s confirm timing for the next roadmap review.",Safe Email
+"Your profile contains unverified fields. Fix them now.",Phishing Email
+"Hi Ivy, see attached doc for presentation talking points.",Safe Email
+"Multiple profile login attempts blocked by firewall.",Phishing Email
+"Here’s the internal checklist for all event roles.",Safe Email
+"Reauthentication required to keep premium access.",Phishing Email
+"Appreciate your leadership during the product kickoff!",Safe Email
+"You have 2 unread messages in your secure inbox.",Phishing Email
+"Attached is the slide deck for today’s Q&A call.",Safe Email
+"Unauthorized download request was denied. Check logs.",Phishing Email
+"Reminder: Add your name to the travel roster.",Safe Email
+"Your credentials were used to access restricted content.",Phishing Email
+"Please review your department’s budget allocation sheet.",Safe Email
+"Immediate update required to continue service.",Phishing Email
+"Thanks again for managing the intern welcome session.",Safe Email
+"Update your password today to meet new security requirements.",Phishing Email
+"Hi Elliot, looping you into the campaign reporting thread.",Safe Email
+"Profile lock enabled until user verification complete.",Phishing Email
+"Here are the talking points for Friday’s presentation.",Safe Email
+"Account review required due to suspicious sign-in.",Phishing Email
+"Please double-check speaker bios before publishing.",Safe Email
+"You must reset your credentials to restore access.",Phishing Email
+"Sharing the final media brief ahead of Thursday’s event.",Safe Email
+"Unknown application attempted to access your profile.",Phishing Email
+"Reminder: RSVP for the Thursday panel lunch today.",Safe Email
+"Access denied: unknown device linked to profile.",Phishing Email
+"Thanks again for your hard work on the Q4 planning!",Safe Email
+"Click now to prevent irreversible profile deactivation.",Phishing Email
+"Attached is the latest draft of the tech one-pager.",Safe Email
+"Your account activity appears to violate policy.",Phishing Email
+"Looping in the design team for asset review.",Safe Email
+"Security breach detected. Review activity immediately.",Phishing Email
+"Hi Nate, all budget forecasts are now in the shared folder.",Safe Email
+"You have failed a required authentication check.",Phishing Email
+"Reminder: Please review the leadership alignment summary.",Safe Email
+"Login required to prevent system suspension.",Phishing Email
+"Attached is the creative brief with approved copy.",Safe Email
+"Critical access issue—confirm account immediately.",Phishing Email
+"Let’s meet briefly to go over the rollout status.",Safe Email
+"Unrecognized connection attempt detected.",Phishing Email
+"Thanks for organizing the community spotlight interview!",Safe Email
+"Click to verify login location and restore email access.",Phishing Email
